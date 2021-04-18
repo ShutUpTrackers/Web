@@ -9,8 +9,8 @@
     <meta name="description" content="Protection against mass surveillance and spying">
     <title>ShutUpTrackers</title>
     <!-- extern imports -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/fontawesome.css">
     <!-- general imports -->
     <link rel="stylesheet" href="css/body-style.css">
     <link rel="stylesheet" href="css/style.css">
@@ -56,6 +56,21 @@
           <p class="card_text">Frontend Developer and Web Designer</p>
           <div class="icons">
           <a href="#" class="discord"><i class="fab fa-discord"></i> Ender'#2062</a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+    <div class="card">
+        <div class="card_content">
+        <div class="circle">
+            <img src="img/Thanks/mika.jpg" alt="mika">
+        </div>
+          <h2 class="card_title">Mika</h2>
+          <p class="card_text">Sysadmin</p>
+          <div class="icons">
+          <a href="https://twitter.com/mika_sec"><i class="fab fa-twitter"></i></a>
+          <a href="https://mikadmin.fr/"><i class="fas fa-link"></i></a>
           </div>
         </div>
       </div>
